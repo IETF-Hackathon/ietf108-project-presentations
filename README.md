@@ -6,4 +6,4 @@ This repo is for IETF hackathon participants to upload their hackathon project p
 
 To be added as a member, send your GitHub ID to [Charles Eckel](mailto:eckelcu@cisco.com) at your earliest convenience. **DO NOT WAIT** until just before hackathon project presentations start or your request may be lost in the chaos.
 
-For more info on the hackathon, including the complete and updated agenda, please see the [Hackathon Wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/107hackathon).
+For more info on the hackathon, including the complete and updated agenda, please see the [Hackathon Wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon).
